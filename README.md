@@ -6,6 +6,7 @@ This repository contains the source code and project files for our graduation pr
 
 ## 🎯 Problem & Solution
 **The Problem:** Management suffered from "operational blind spots" due to data being scattered across various CSV files. This made it difficult to track revenue leakage (such as refund claims) and accurately evaluate station performance.
+
 **The Solution:** We built a comprehensive **End-to-End ELT Pipeline** that extracts, cleans, and loads data into a structured Data Warehouse. This data is then visualized through interactive executive dashboards and supported by an AI-powered analytical Chatbot.
 
 ---
