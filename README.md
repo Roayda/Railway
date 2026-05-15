@@ -39,9 +39,9 @@ The BI solution consists of 5 core pillars covering all operational aspects:
 This project was executed collaboratively by a dedicated team of specialists:
 - **Roayda Alaa** (Team Leader / Data Analyst)
 - **Mariam Hassan** (Data Analyst)
-- **Hamsa Ebrahim** (Data Analyst)
+- **Hamsa Ebrahim** (Data Engineer)
 - **Farah Osama** (Data Engineer)
-- **Abdelrahman Diaa** (Data Engineer)
-- **Shahd Nasser** (AI Specialist)
+- **Abdelrahman Diaa** (Data Analyst)
+- **Shahd Nasser** (Business Analyst)
 
 🎓 **Supervised by:** Dr. Maged Magdy  
