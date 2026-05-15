@@ -16,7 +16,7 @@ This project bridges the gap between Software Engineering and Data Analytics:
 1. **Data Engineering (Python & Pandas):** Automated scripts for data cleansing, handling missing values, and transforming raw unstructured data.
 2. **Data Warehouse (SQL Server):** - Architected an optimized **Star Schema** (Fact & Dimension Tables).
    - Fully relied on **SQL Stored Procedures** to handle large datasets efficiently, ensuring high-speed queries and completely avoiding standard table imports.
-3. **Business Intelligence (Power BI & DAX):** Designed 6 comprehensive analytical dashboards utilizing complex DAX measures for performance ranking and scoring.
+3. **Business Intelligence (Power BI & DAX):** Designed 5 comprehensive analytical dashboards utilizing complex DAX measures for performance ranking and scoring.
 4. **AI & NLP (Chatbot & ML):** Integrated an NLP-powered Chatbot for conversational data access, alongside Machine Learning layers for anomaly and fraud detection.
 
 ---
@@ -33,14 +33,7 @@ The BI solution consists of 6 core pillars covering all operational aspects:
 
 ---
 
-## 🛡️ Fraud & Anomaly Detection
-A critical feature of this system is **Revenue Protection**. We developed a multi-layered defense system to detect high-risk anomalies in refund requests:
-- Flagging multiple refund claims for single operational incidents.
-- Identifying high-frequency refund requests from specific user accounts.
-- Detecting high-value claims that lack corresponding actual operational delay logs.
-- The system automatically cross-references these claims with actual train performance logs to alert management.
 
----
 
 ## 🚀 The Roadmap Ahead
 - **Real-Time Streaming:** Integrating live GPS and sensor data for instantaneous tracking.
@@ -59,4 +52,3 @@ This project was executed collaboratively by a dedicated team of specialists:
 - **Shahd Nasser** (AI Specialist)
 
 🎓 **Supervised by:** Dr. Maged Magdy  
-📍 **Faculty of Computers and Artificial Intelligence, Fayoum University**
