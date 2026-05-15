@@ -29,8 +29,7 @@ The BI solution consists of 6 core pillars covering all operational aspects:
 2. **Operational Delays:** Root cause analysis for train delays (Technical, Weather, Signal Failures).
 3. **Sales & Revenue:** Performance of sales channels (Online vs. Station) and ticket class profitability.
 4. **Time Analysis:** Heatmaps and trend lines to identify peak hours and busiest days for optimal resource allocation.
-5. **Route Intelligence:** Spatial profitability analysis, tracking traffic flow, and identifying bottleneck routes.
-6. **Service Quality (Station Ranking):** Advanced visual analytics (Scatter Charts & Treemaps) correlating station revenue generation with operational reliability.
+5. **Service Quality (Station Ranking):** Advanced visual analytics (Scatter Charts & Treemaps) correlating station revenue generation with operational reliability.
 
 ---
 
