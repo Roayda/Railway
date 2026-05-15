@@ -35,13 +35,6 @@ The BI solution consists of 5 core pillars covering all operational aspects:
 
 
 
-## 🚀 The Roadmap Ahead
-- **Real-Time Streaming:** Integrating live GPS and sensor data for instantaneous tracking.
-- **Predictive Analytics:** Deploying Machine Learning models to proactively predict delays and optimize maintenance cycles.
-- **Mobile Integration:** Extending the dashboard and chatbot capabilities to mobile platforms for on-the-go executives.
-
----
-
 ## 👥 The Team
 This project was executed collaboratively by a dedicated team of specialists:
 - **Roayda Alaa** (Team Leader / Data Analyst)
