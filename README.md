@@ -18,7 +18,7 @@ This project bridges the gap between Software Engineering and Data Analytics:
 2. **Data Warehouse (SQL Server):** - Architected an optimized **Star Schema** (Fact & Dimension Tables).
    - Fully relied on **SQL Stored Procedures** to handle large datasets efficiently, ensuring high-speed queries and completely avoiding standard table imports.
 3. **Business Intelligence (Power BI & DAX):** Designed 5 comprehensive analytical dashboards utilizing complex DAX measures for performance ranking and scoring.
-4. **AI & NLP (Chatbot & ML):** Integrated an NLP-powered Chatbot for conversational data access, alongside Machine Learning layers for anomaly and fraud detection.
+4. **AI & NLP (Chatbot & ML):** Integrated an NLP-powered Chatbot for conversational data access .
 
 ---
 
