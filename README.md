@@ -24,7 +24,7 @@ This project bridges the gap between Software Engineering and Data Analytics:
 
 ## 📊 Dashboards & Analytics
 
-The BI solution consists of 6 core pillars covering all operational aspects:
+The BI solution consists of 5 core pillars covering all operational aspects:
 1. **Executive Overview:** High-level summary of total revenue, ticket sales, and key performance indicators.
 2. **Operational Delays:** Root cause analysis for train delays (Technical, Weather, Signal Failures).
 3. **Sales & Revenue:** Performance of sales channels (Online vs. Station) and ticket class profitability.
